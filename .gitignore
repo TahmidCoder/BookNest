@@ -16,3 +16,4 @@ Thumbs.db
 # Build / Production
 /frontend/build
 /backend/dist
+.gitignore
